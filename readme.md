@@ -12,7 +12,7 @@ to update theme or contents, run `./teenytinyweb.sh` with no arguments.
 
 ## dependencies
 
-these binaries __must__ accessable from the $PATH provided by /usr/bin/env:
+these binaries __must__ be accessable from the $PATH provided by /usr/bin/env:
 
 - [markdown][3]
 - [sass][4]
